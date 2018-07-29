@@ -1,5 +1,7 @@
 {
   "name": "day10",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "3"
+  }
 }
